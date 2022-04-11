@@ -2,8 +2,22 @@
 
 This is an exercise number 2 from exam conducted after 1st month of Scala Academy at [Adform](https://github.com/adform).
 
-Exercise rules & description: [link](https://exercism.org/tracks/scala/exercises/isogram)
+### Task description
+Determine if a word or phrase is an isogram.
 
+An isogram (also known as a "nonpattern word") is a word or phrase without a repeating letter, however spaces and hyphens are allowed to appear multiple times.
+
+Examples of isograms:
+- lumberjacks
+- background
+- downstream
+- six-year-old
+
+The word isograms, however, is not an isogram, because the s repeats.
+
+Description adapted from: [source](https://exercism.org/tracks/scala/exercises/isogram).
+
+---
 ### Table of contents
 ##### Scala Coding Problems
 1. [Letter value sum](https://github.com/rafalkac02/adform-scala-academy-exam0-exercise-1)
